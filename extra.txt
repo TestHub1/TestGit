@@ -1,1 +1,2 @@
-This file is just added in my branch
+This file is added to both mybranch and master
+New line here also!
